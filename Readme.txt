@@ -1,6 +1,6 @@
 ***********Instructions for full application**********
 
-///The mobile apk will be available in the path: UP176_TECHNES > applications
+///The mobile apk will be available in the below mentioned drive folder. Path: UP176_TECHNES > applications
 
 
 ///Sign up is compulsary before accessing the application. Don't be afraid of data stealing. The user sign in data will be stored locally where the password will be encrypted.
